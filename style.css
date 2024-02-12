@@ -1,3 +1,4 @@
+/*Estilo inicial*/
 *{
     margin:0;
     padding:0;
@@ -51,6 +52,7 @@ p{
     font-size: 1rem;
 }
 
+/*Especificacion de colores y metodo de flex para las clases*/
 .preparacion{/**/
     display: flex;
     flex-direction: column;
@@ -76,15 +78,6 @@ p{
     align-items: flex-start;
 }
 
-.instrucciones li::before {
-    content: counter(item);
-    counter-increment: item;
-    font-weight: bold;
-    color: red;
-    margin-right: 5px;
-}
-
-
 table {
     width: 80%;
     font-family: 'Outfit',"regular";
@@ -105,8 +98,10 @@ br{
 }
 
 h1, h2, h3, ul, ol, table, div, hr, img, p{
-    margin-bottom: 20px; /**/
+    margin-bottom: 20px; /*Deja espacio entre los elementos*/
 }
+
+/*Los media queries para mobile first, intento adecuar las caracteristicas para que concuerden*/
 
 @media only screen and (max-width: 480px) {
     div.rosado {
@@ -168,7 +163,7 @@ h1, h2, h3, ul, ol, table, div, hr, img, p{
     }
 }
 
-/* Media Query para tablets */
+/* Media Query para las tablets, realizo el procedimiento del anterior para mantener proporciones*/
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
     div.rosado {
         width: 70%;
