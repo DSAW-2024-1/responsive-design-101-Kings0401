@@ -24,6 +24,13 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 - En el archivo `index.html` se encuentra el punto de inicio para el desarrollo del taller, ahí ya se encuentran los textos y la estructura básica del componente HTML. **Es indispensable que se trabaje sobre ese mismo archivo.**
 - En el documento `style-guide.md` se encuentran las variables de diseño que utilizaremos para este desarrollo: esas variables incluyen tamaños y tipos de fuente, dimensiones del viewport, colores, etc.
 
+## Fotos 
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Kings0401/assets/150862371/e812e89b-9bb1-4476-8fd5-3e6218899268)
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Kings0401/assets/150862371/0b02b65b-0c36-4640-b3be-f320dbece8f3)
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Kings0401/assets/150862371/e60bd3b3-e16d-4f6d-a6cd-17685e695a14)
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Kings0401/assets/150862371/aede787c-c0dc-4966-9a69-285d04f67f42)
+![image](https://github.com/DSAW-2024-1/responsive-design-101-Kings0401/assets/150862371/f638e695-df3b-4222-99cf-f39cb4485c2b)
+
 
 ## Evaluación
 | Criterio                                          | Puntos |
